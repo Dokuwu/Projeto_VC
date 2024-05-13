@@ -23,10 +23,6 @@
     <ClCompile Include="vc.c" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Enunciado-VC-TP-2024-EN.pdf" />
-    <None Include="Enunciado-VC-TP-2024.pdf" />
-  </ItemGroup>
-  <ItemGroup>
     <Media Include="video_resistors.mp4" />
   </ItemGroup>
   <ItemGroup>
