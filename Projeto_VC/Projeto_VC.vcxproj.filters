@@ -27,9 +27,4 @@
       <Filter>Source Files</Filter>
     </Media>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="vc.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>
